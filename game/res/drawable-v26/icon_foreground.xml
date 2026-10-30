@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 21dp / 108dp on each side keeps the complete image inside the 66dp safe zone. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="19.444444%"
+    android:insetTop="19.444444%"
+    android:insetRight="19.444444%"
+    android:insetBottom="19.444444%">
+    <bitmap android:src="@drawable/icon_art" android:gravity="fill" android:filter="true" />
+</inset>
