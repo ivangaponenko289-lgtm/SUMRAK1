@@ -1,0 +1,2141 @@
+{
+  "format": "shadowduel-animation",
+  "version": 3,
+  "fps": 60,
+  "name": "Удар ногой",
+  "durationFrames": 41,
+  "duringJump": false,
+  "rig": {
+    "id": "shadowduel-20-v3",
+    "lengths": {
+      "spine": 17.489679496459875,
+      "neck": 28.284271247461902,
+      "frontUpperArm": 36.0,
+      "frontForearm": 40.0,
+      "backUpperArm": 36.0,
+      "backForearm": 40.0,
+      "frontThigh": 53.0,
+      "frontShin": 51.0,
+      "backThigh": 53.0,
+      "backShin": 51.0,
+      "frontHand": 14.0,
+      "backHand": 14.0,
+      "frontFoot": 18.0,
+      "backFoot": 18.0,
+      "lumbar": 17.489679496459875,
+      "thoracic": 17.489679496459875,
+      "head": 16.0,
+      "frontPatella": 9.0,
+      "backPatella": 9.0
+    }
+  },
+  "bounds": {
+    "left": -140.0,
+    "top": -230.0,
+    "right": 180.0,
+    "bottom": 30.0
+  },
+  "poses": {
+    "frame-0": {
+      "name": "Удар ногой · 0",
+      "root": {
+        "x": -8.0,
+        "y": -104.0
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.0,
+      "shoulderTurn": 0.0,
+      "angles": {
+        "spine": 0.0,
+        "neck": 0.46329809234180175,
+        "frontUpperArm": 146.4208431360971,
+        "frontForearm": -106.13048726701814,
+        "backUpperArm": 132.25585759800435,
+        "backForearm": -142.52192978342214,
+        "frontThigh": 48.06400657064877,
+        "frontShin": 34.522937432843904,
+        "backThigh": 86.94832604074192,
+        "backShin": 37.46286888243334,
+        "frontHand": -0.0,
+        "backHand": 0.0,
+        "frontFoot": -82.58694400349268,
+        "backFoot": -124.41119492317526,
+        "lumbar": -82.33319573818584,
+        "thoracic": 0.0,
+        "head": 81.86989764584403,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-3": {
+      "name": "Удар ногой · 3",
+      "root": {
+        "x": -9.649977684020996,
+        "y": -100.04005432128906
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.594447374343872,
+      "shoulderTurn": 0.0,
+      "angles": {
+        "spine": 0.0,
+        "neck": 4.353021989111127,
+        "frontUpperArm": 148.71897255789904,
+        "frontForearm": -114.78169880761615,
+        "backUpperArm": 137.51844288010503,
+        "backForearm": -135.13479767518544,
+        "frontThigh": 15.194275806046704,
+        "frontShin": 94.35698566674326,
+        "backThigh": 80.46294184668828,
+        "backShin": 50.05109920390398,
+        "frontHand": -7.783341884613037,
+        "backHand": 4.3240790367126465,
+        "frontFoot": -109.55126147278996,
+        "backFoot": -130.51404105059225,
+        "lumbar": -87.13800942755883,
+        "thoracic": 0.0,
+        "head": 82.7849874384477,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-6": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": -12.324077606201172,
+        "y": -93.6222152709961
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 1.3755860328674316,
+      "shoulderTurn": 6.563379287719727,
+      "angles": {
+        "spine": 0.0,
+        "neck": 10.045177050033814,
+        "frontUpperArm": 142.99031482566286,
+        "frontForearm": -134.30333484861535,
+        "backUpperArm": 141.28806729775874,
+        "backForearm": -119.23125250704996,
+        "frontThigh": -35.154848746558,
+        "frontShin": 121.77808158043159,
+        "backThigh": 72.20682806610115,
+        "backShin": 65.74513153259112,
+        "frontHand": -4.077465534210205,
+        "backHand": 5.0,
+        "frontFoot": -116.9932408730411,
+        "backFoot": -137.95195959869227,
+        "lumbar": -94.19418429147252,
+        "thoracic": 0.0,
+        "head": 84.14900724143871,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-9": {
+      "name": "Удар ногой · 9",
+      "root": {
+        "x": -9.949658393859863,
+        "y": -91.73854064941406
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 4.890890598297119,
+      "shoulderTurn": 11.836336135864258,
+      "angles": {
+        "spine": 0.0,
+        "neck": 12.366087312136841,
+        "frontUpperArm": 133.81604094267806,
+        "frontForearm": -141.39306256459452,
+        "backUpperArm": 142.67006812192892,
+        "backForearm": -114.921057808917,
+        "frontThigh": -70.26850437421615,
+        "frontShin": 152.48785695828406,
+        "backThigh": 72.8898941396776,
+        "backShin": 68.12612071197869,
+        "frontHand": -0.12274807691574097,
+        "backHand": 5.0,
+        "frontFoot": -82.2193525840679,
+        "backFoot": -141.01601485165628,
+        "lumbar": -97.59746321533142,
+        "thoracic": 0.0,
+        "head": 85.23137590319458,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-12": {
+      "name": "Удар ногой · 12",
+      "root": {
+        "x": 11.48159408569336,
+        "y": -89.90158081054688
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 3.3131237030029297,
+      "shoulderTurn": 9.469685554504395,
+      "angles": {
+        "spine": 0.0,
+        "neck": 18.455448569292997,
+        "frontUpperArm": 135.27211122517258,
+        "frontForearm": -143.69252312574733,
+        "backUpperArm": 145.0421851739606,
+        "backForearm": -126.42546309285304,
+        "frontThigh": -62.48307521898848,
+        "frontShin": 81.99081231474689,
+        "backThigh": 93.07243249270444,
+        "backShin": 53.65767030122497,
+        "frontHand": -1.897735834121704,
+        "backHand": 5.0,
+        "frontFoot": -19.507737095758408,
+        "backFoot": -146.7301027939294,
+        "lumbar": -109.44135920085928,
+        "thoracic": 0.0,
+        "head": 90.98591063156628,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-14": {
+      "name": "Удар ногой · 14",
+      "root": {
+        "x": 21.62990951538086,
+        "y": -89.03172302246094
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.1949000358581543,
+      "shoulderTurn": 4.207650184631348,
+      "angles": {
+        "spine": 0.0,
+        "neck": 20.600584493796646,
+        "frontUpperArm": 140.86354817421838,
+        "frontForearm": -142.00669762368145,
+        "backUpperArm": 139.4162926706613,
+        "backForearm": -130.8444435782166,
+        "frontThigh": -25.06931433368264,
+        "frontShin": 0.05026101798572134,
+        "backThigh": 104.79262668339139,
+        "backShin": 40.84137233282731,
+        "frontHand": -5.844262599945068,
+        "backHand": 5.0,
+        "frontFoot": 25.01905331569692,
+        "backFoot": -145.6339990162187,
+        "lumbar": -114.57406052349121,
+        "thoracic": 0.0,
+        "head": 93.97347602969457,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-15": {
+      "name": "Удар ногой · 15",
+      "root": {
+        "x": 22.0,
+        "y": -89.0
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.3393661975860596,
+      "shoulderTurn": 0.9909505844116211,
+      "angles": {
+        "spine": 0.0,
+        "neck": 19.4952018287038,
+        "frontUpperArm": 145.84768557309692,
+        "frontForearm": -140.40828114115857,
+        "backUpperArm": 137.57926930742752,
+        "backForearm": -132.2032768554568,
+        "frontThigh": -24.86938454679381,
+        "frontShin": 0.05026101798572134,
+        "backThigh": 105.27049699486606,
+        "backShin": 40.25056970958531,
+        "frontHand": -8.256787300109863,
+        "backHand": 5.0,
+        "frontFoot": 24.81912352880809,
+        "backFoot": -145.52106670445136,
+        "lumbar": -114.42679510035303,
+        "thoracic": 0.0,
+        "head": 94.93159327164923,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-18": {
+      "name": "Удар ногой · 18",
+      "root": {
+        "x": 21.55406951904297,
+        "y": -89.03822326660156
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -3.0,
+      "shoulderTurn": 1.4695762231022014E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 9.438735670198284,
+        "frontUpperArm": 145.27562873655683,
+        "frontForearm": -143.59807204886582,
+        "backUpperArm": 134.84119558246462,
+        "backForearm": -136.3905181408165,
+        "frontThigh": -15.300648282870764,
+        "frontShin": 50.529514345266044,
+        "backThigh": 104.69530871860445,
+        "backShin": 40.96102187601268,
+        "frontHand": -9.0,
+        "backHand": 5.0,
+        "frontFoot": -73.71439010124818,
+        "backFoot": -145.65633059461715,
+        "lumbar": -111.29324099814934,
+        "thoracic": 0.0,
+        "head": 101.85450532795106,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-21": {
+      "name": "Удар ногой · 21",
+      "root": {
+        "x": 9.67996883392334,
+        "y": -90.05599975585938
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -3.0,
+      "shoulderTurn": 1.4695762231022014E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 10.679748373014831,
+        "frontUpperArm": 148.1212249184416,
+        "frontForearm": -138.93769202762536,
+        "backUpperArm": 142.2310409389599,
+        "backForearm": -132.9269950179751,
+        "frontThigh": -67.4427809476061,
+        "frontShin": 99.90960958562607,
+        "backThigh": 91.18710093196961,
+        "backShin": 55.42251047088861,
+        "frontHand": -9.0,
+        "backHand": 5.0,
+        "frontFoot": -32.466828638019976,
+        "backFoot": -146.6096114028582,
+        "lumbar": -106.24659401879524,
+        "thoracic": 0.0,
+        "head": 95.5668456457804,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-24": {
+      "name": "Удар ногой · 24",
+      "root": {
+        "x": -6.860776901245117,
+        "y": -91.4737777709961
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -3.0,
+      "shoulderTurn": 1.4695762231022014E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 11.423061209681919,
+        "frontUpperArm": 145.29057996455822,
+        "frontForearm": -130.60597128180726,
+        "backUpperArm": 143.90270568367202,
+        "backForearm": -123.89561807663564,
+        "frontThigh": -73.58965573094771,
+        "frontShin": 146.1259617807378,
+        "backThigh": 75.53438830188648,
+        "backShin": 66.81370404627866,
+        "frontHand": -9.0,
+        "backHand": 5.0,
+        "frontFoot": -72.5363060497901,
+        "backFoot": -142.34809234816515,
+        "lumbar": -98.75263628021773,
+        "thoracic": 0.0,
+        "head": 87.32957507053581,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-27": {
+      "name": "Удар ногой · 27",
+      "root": {
+        "x": -12.97468090057373,
+        "y": -92.0607681274414
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -3.0,
+      "shoulderTurn": 1.4695762231022014E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 11.35525976180648,
+        "frontUpperArm": 142.95942066263018,
+        "frontForearm": -127.1163523869252,
+        "backUpperArm": 142.48419821553756,
+        "backForearm": -119.81132871187972,
+        "frontThigh": -56.92698703471481,
+        "frontShin": 159.15387537896618,
+        "backThigh": 70.42814306149079,
+        "backShin": 69.07016397371581,
+        "frontHand": -9.0,
+        "backHand": 5.0,
+        "frontFoot": -102.22688834425136,
+        "backFoot": -139.4983070352066,
+        "lumbar": -95.81575087884569,
+        "thoracic": 0.0,
+        "head": 84.46049111703921,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-30": {
+      "name": "Удар ногой · 30",
+      "root": {
+        "x": -12.218746185302734,
+        "y": -93.87500762939453
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -3.0,
+      "shoulderTurn": 1.4695762231022014E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 9.87293089288076,
+        "frontUpperArm": 146.06182777436428,
+        "frontForearm": -125.16487390589307,
+        "backUpperArm": 142.17124131956743,
+        "backForearm": -123.38765407102898,
+        "frontThigh": -30.251646416735575,
+        "frontShin": 148.36551338634882,
+        "backThigh": 72.50127989950698,
+        "backShin": 65.19262123751052,
+        "frontHand": -9.0,
+        "backHand": 5.0,
+        "frontFoot": -118.11386696961324,
+        "backFoot": -137.69390113701752,
+        "lumbar": -93.97079143991624,
+        "thoracic": 0.0,
+        "head": 84.09786054703548,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-33": {
+      "name": "Удар ногой · 33",
+      "root": {
+        "x": -10.811772346496582,
+        "y": -97.25174713134766
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.9562671184539795,
+      "shoulderTurn": 1.4481532775584825E-15,
+      "angles": {
+        "spine": 0.0,
+        "neck": 6.927672127391844,
+        "frontUpperArm": 149.24963613917404,
+        "frontForearm": -120.10286194915004,
+        "backUpperArm": 140.88979003946903,
+        "backForearm": -130.08789087223434,
+        "frontThigh": -2.774809587466848,
+        "frontShin": 121.40178946282722,
+        "backThigh": 76.64625799754957,
+        "backShin": 57.356335822862796,
+        "frontHand": -8.86880111694336,
+        "backHand": 4.927111625671387,
+        "frontFoot": -118.62697987536038,
+        "backFoot": -134.00259382041236,
+        "lumbar": -90.32246116775157,
+        "thoracic": 0.0,
+        "head": 83.39478904035973,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-36": {
+      "name": "Удар ногой · 36",
+      "root": {
+        "x": -9.296294212341309,
+        "y": -100.8888931274414
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.8192393779754639,
+      "shoulderTurn": 8.911703518280642E-16,
+      "angles": {
+        "spine": 0.0,
+        "neck": 3.4933164806325294,
+        "frontUpperArm": 149.37664998983036,
+        "frontForearm": -113.08333232821938,
+        "backUpperArm": 138.14800850956976,
+        "backForearm": -137.2812298228105,
+        "frontThigh": 20.8375060988876,
+        "frontShin": 84.81001210712687,
+        "backThigh": 81.72366718586164,
+        "backShin": 47.62062015360455,
+        "frontHand": -5.4577178955078125,
+        "backHand": 3.0320656299591064,
+        "frontFoot": -105.64751820601447,
+        "backFoot": -129.34428733946618,
+        "lumbar": -86.08712770074294,
+        "thoracic": 0.0,
+        "head": 82.59381122011041,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-39": {
+      "name": "Удар ногой · 39",
+      "root": {
+        "x": -8.21484375,
+        "y": -103.484375
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.3542267680168152,
+      "shoulderTurn": 1.7352109169681723E-16,
+      "angles": {
+        "spine": 0.0,
+        "neck": 0.8869216974885035,
+        "frontUpperArm": 147.70901647564583,
+        "frontForearm": -107.33949459853744,
+        "backUpperArm": 134.866590349857,
+        "backForearm": -142.26980878092965,
+        "frontThigh": 41.86301119026534,
+        "frontShin": 46.45449818984582,
+        "backThigh": 85.99807260881538,
+        "backShin": 39.32022238384238,
+        "frontHand": -1.0626803636550903,
+        "backHand": 0.5903779864311218,
+        "frontFoot": -88.31750938011116,
+        "backFoot": -125.31829499265775,
+        "lumbar": -82.87938889082803,
+        "thoracic": 0.0,
+        "head": 81.99246719333952,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "frame-41": {
+      "name": "Удар ногой · 41",
+      "root": {
+        "x": -8.0,
+        "y": -104.0
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.0,
+      "shoulderTurn": 0.0,
+      "angles": {
+        "spine": 0.0,
+        "neck": 0.46329809234180175,
+        "frontUpperArm": 146.4208431360971,
+        "frontForearm": -106.13048726701814,
+        "backUpperArm": 132.25585759800435,
+        "backForearm": -142.52192978342214,
+        "frontThigh": 48.06400657064877,
+        "frontShin": 34.522937432843904,
+        "backThigh": 86.94832604074192,
+        "backShin": 37.46286888243334,
+        "frontHand": -0.0,
+        "backHand": 0.0,
+        "frontFoot": -82.58694400349268,
+        "backFoot": -124.41119492317526,
+        "lumbar": -82.33319573818584,
+        "thoracic": 0.0,
+        "head": 81.86989764584403,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-2e704ef1-bd25-49a3-99db-e54ec0925b9f": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": -11.532604535420736,
+        "y": -92.99432373046875
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 2.547354221343994,
+      "shoulderTurn": 8.32103157043457,
+      "angles": {
+        "spine": 15.348196592884818,
+        "neck": 1.5191169035408478,
+        "frontUpperArm": 139.93222353133459,
+        "frontForearm": -136.6665774206084,
+        "backUpperArm": 126.82273956188041,
+        "backForearm": -117.31593630620206,
+        "frontThigh": -43.14937247776138,
+        "frontShin": 125.39883824854867,
+        "backThigh": 72.41502780498509,
+        "backShin": 66.56709856012942,
+        "frontHand": -2.759226381778717,
+        "backHand": 5.0,
+        "frontFoot": -107.08419898219574,
+        "backFoot": -138.9821263651145,
+        "lumbar": -95.32861059942549,
+        "thoracic": -2.8982677229104326,
+        "head": 84.50979679535733,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-6368ffd5-0734-403d-870d-be743ed2bbfb": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": -10.7411314646403,
+        "y": -92.3664321899414
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 3.7191224098205566,
+      "shoulderTurn": 10.078683853149414,
+      "angles": {
+        "spine": 7.674098296442409,
+        "neck": 11.592450558102499,
+        "frontUpperArm": 136.87413223700634,
+        "frontForearm": -139.02981999260146,
+        "backUpperArm": 134.74640384190468,
+        "backForearm": -116.11849705755952,
+        "frontThigh": -51.97849280428165,
+        "frontShin": 110.03784387330361,
+        "backThigh": 72.64284650208324,
+        "backShin": 67.36054212453601,
+        "frontHand": -1.440987229347229,
+        "backHand": 5.0,
+        "frontFoot": -97.19542277160032,
+        "backFoot": -140.00338862661926,
+        "lumbar": -96.46303690737845,
+        "thoracic": -1.4491338614552163,
+        "head": 84.87058634927595,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-35837d8d-9d84-4904-97f7-4356e73ba55e": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": -5.185450077056886,
+        "y": -91.75021934509277
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 3.61762273311615,
+      "shoulderTurn": 9.92643427848816,
+      "angles": {
+        "spine": 5.755573722331807,
+        "neck": 13.308200060900123,
+        "frontUpperArm": 136.47362698404788,
+        "frontForearm": -140.19549577588793,
+        "backUpperArm": 137.32034917491865,
+        "backForearm": -118.6952385663829,
+        "frontThigh": -44.14314599496095,
+        "frontShin": 74.89852848213525,
+        "backThigh": 77.30512328333732,
+        "backShin": 65.19627031307996,
+        "frontHand": -1.5551743805408478,
+        "backHand": 5.0,
+        "frontFoot": -77.63099852992858,
+        "backFoot": -142.5013935964173,
+        "lumbar": -99.70761748074867,
+        "thoracic": -1.0868503960914122,
+        "head": 86.39941741984853,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-d15c4a0c-8c86-41f5-8890-db368baf8b7b": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": 0.37023131052652847,
+        "y": -91.13400650024414
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 3.516123056411743,
+      "shoulderTurn": 9.774184703826904,
+      "angles": {
+        "spine": 3.8370491482212046,
+        "neck": 15.023949563697748,
+        "frontUpperArm": 136.07312173108946,
+        "frontForearm": -141.3611715591744,
+        "backUpperArm": 139.89429450793264,
+        "backForearm": -121.27198007520627,
+        "frontThigh": -36.57105643906112,
+        "frontShin": 50.98328417438996,
+        "backThigh": 82.24905611795097,
+        "backShin": 62.24766347110851,
+        "frontHand": -1.6693615317344666,
+        "backHand": 5.0,
+        "frontFoot": -59.007994484673965,
+        "backFoot": -144.49671958905947,
+        "lumbar": -102.95219805411887,
+        "thoracic": -8.220124401134726,
+        "head": 87.92824849042111,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-38edc0b2-a448-47f6-a6d2-5841f211f6d9": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": 5.925912698109944,
+        "y": -90.51779365539551
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 3.4146233797073364,
+      "shoulderTurn": 9.62193512916565,
+      "angles": {
+        "spine": 1.9185245741106023,
+        "neck": 16.739699066495373,
+        "frontUpperArm": 135.67261647813103,
+        "frontForearm": -142.52684734246088,
+        "backUpperArm": 142.46823984094664,
+        "backForearm": -123.84872158402965,
+        "frontThigh": -28.96325892571082,
+        "frontShin": 27.973631482506796,
+        "backThigh": 87.48968472271481,
+        "backShin": 58.44278368990384,
+        "frontHand": -1.7835486829280853,
+        "backHand": 5.0,
+        "frontFoot": -73.41756801403518,
+        "backFoot": -145.93246841261865,
+        "lumbar": -106.19677862748907,
+        "thoracic": -4.110062200567363,
+        "head": 89.45707956099369,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-4d5eb5c2-b8e0-47cc-b9c3-71f2fb42c4af": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": 11.04939107919733,
+        "y": -81.6661397883454
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 2.211448907852173,
+      "shoulderTurn": 7.817173480987549,
+      "angles": {
+        "spine": 1.2790163827404015,
+        "neck": 18.026660875595798,
+        "frontUpperArm": 137.4029270434935,
+        "frontForearm": -142.35346410286775,
+        "backUpperArm": 141.45092411751818,
+        "backForearm": -126.1806289154253,
+        "frontThigh": -17.1835663577026,
+        "frontShin": 0.05026101798572134,
+        "backThigh": 88.84040629087824,
+        "backShin": 72.6808537752219,
+        "frontHand": -3.137119988600413,
+        "backHand": 5.0,
+        "frontFoot": -42.90355597074294,
+        "backFoot": -138.39935974865602,
+        "lumbar": -108.98920592615644,
+        "thoracic": -0.5363846705955382,
+        "head": 90.96254505056065,
+        "frontPatella": 0.0,
+        "backPatella": -39.71919171146186
+      }
+    },
+    "pose-0f608127-1d94-43f1-9381-93d352745c17": {
+      "name": "Удар ногой · 6",
+      "root": {
+        "x": 11.160578303866917,
+        "y": -90.02243677775066
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 2.211448907852173,
+      "shoulderTurn": 7.817173480987549,
+      "angles": {
+        "spine": 1.2790163827404015,
+        "neck": 18.026660875595798,
+        "frontUpperArm": 137.4029270434935,
+        "frontForearm": -142.35346410286775,
+        "backUpperArm": 141.45092411751818,
+        "backForearm": -126.1806289154253,
+        "frontThigh": -30.64386835392086,
+        "frontShin": 24.612766105031014,
+        "backThigh": 92.80188297726868,
+        "backShin": 53.782936548167626,
+        "frontHand": -3.137119988600413,
+        "backHand": 5.0,
+        "frontFoot": -76.71693220035633,
+        "backFoot": -146.5848195254363,
+        "lumbar": -108.98920592615644,
+        "thoracic": -2.7400414670449087,
+        "head": 90.96254505056065,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-e8f0ab2a-7933-4288-a5c4-1931a8eeef93": {
+      "name": "Поза #13 — копия",
+      "root": {
+        "x": 12.892826839729592,
+        "y": -89.85840119255914
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 1.3428740898768108,
+      "shoulderTurn": 6.514311234156291,
+      "angles": {
+        "spine": 1.0658469856170012,
+        "neck": 16.595340008029545,
+        "frontUpperArm": 138.71504399233737,
+        "frontForearm": -142.5608987605341,
+        "backUpperArm": 140.34930269500927,
+        "backForearm": -127.88227711965718,
+        "frontThigh": -30.42849651119122,
+        "frontShin": 22.964323338040582,
+        "backThigh": 94.64025534675025,
+        "backShin": 52.016782097488154,
+        "frontHand": -4.114266657167011,
+        "backHand": 5.0,
+        "frontFoot": -65.39799887445761,
+        "backFoot": -146.6570374442384,
+        "lumbar": -109.3732117714886,
+        "thoracic": -2.2833678892040905,
+        "head": 92.77787176345905,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-ccc414f6-a21d-4a27-b9e3-ebd58e16ba2a": {
+      "name": "Поза #14 — копия",
+      "root": {
+        "x": 14.625075375592267,
+        "y": -89.69436560736763
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": 0.4742992719014485,
+      "shoulderTurn": 5.211448987325033,
+      "angles": {
+        "spine": 0.852677588493601,
+        "neck": 15.164019140463292,
+        "frontUpperArm": 140.02716094118125,
+        "frontForearm": -142.76833341820043,
+        "backUpperArm": 139.24768127250033,
+        "backForearm": -129.58392532388905,
+        "frontThigh": -37.10879071914056,
+        "frontShin": 35.500817528089094,
+        "backThigh": 96.52596802011024,
+        "backShin": 50.12344861957613,
+        "frontHand": -5.091413325733609,
+        "backHand": 5.0,
+        "frontFoot": -58.68283651005774,
+        "backFoot": -146.64941663968636,
+        "lumbar": -109.75721761682075,
+        "thoracic": -1.8266943113632723,
+        "head": 94.59319847635744,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-2ea18929-c085-4fef-9791-ae122337f245": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 16.35732391145494,
+        "y": -89.53033002217612
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.3942755460739136,
+      "shoulderTurn": 3.9085867404937753,
+      "angles": {
+        "spine": 0.6395081913702008,
+        "neck": 13.73269827289704,
+        "frontUpperArm": 141.33927789002513,
+        "frontForearm": -142.97576807586677,
+        "backUpperArm": 138.1460598499914,
+        "backForearm": -131.28557352812092,
+        "frontThigh": -39.81143947888784,
+        "frontShin": 39.821356853048876,
+        "backThigh": 98.46513563293475,
+        "backShin": 48.09016032155499,
+        "frontHand": -6.068559994300207,
+        "backHand": 5.0,
+        "frontFoot": -65.13111242842243,
+        "backFoot": -146.55529595448974,
+        "lumbar": -110.14122346215291,
+        "thoracic": -1.3700207335224541,
+        "head": 96.40852518925584,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-e25c7695-51c4-4bc0-a105-c731f723b73f": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 18.089572447317618,
+        "y": -89.3662944369846
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.2628503640492756,
+      "shoulderTurn": 2.6057244936625175,
+      "angles": {
+        "spine": 10.11728131666895,
+        "neck": 12.301377405330788,
+        "frontUpperArm": 142.65139483886904,
+        "frontForearm": -143.1832027335331,
+        "backUpperArm": 137.04443842748248,
+        "backForearm": -132.9872217323528,
+        "frontThigh": -37.53594440238075,
+        "frontShin": 47.58443315978552,
+        "backThigh": 100.46564476322028,
+        "backShin": 45.90058063244691,
+        "frontHand": -7.045706662866805,
+        "backHand": 5.0,
+        "frontFoot": -28.971123063436952,
+        "backFoot": -146.3662253956672,
+        "lumbar": -110.52522930748505,
+        "thoracic": -0.9133471556816362,
+        "head": 98.22385190215425,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-13fb77d0-3872-4c40-8ef7-ced9a0637974": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 19.821820983180295,
+        "y": -89.20225885179309
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.1314251820246377,
+      "shoulderTurn": 1.3028622468312594,
+      "angles": {
+        "spine": -1.4573365574049006,
+        "neck": 10.870056537764537,
+        "frontUpperArm": 143.96351178771295,
+        "frontForearm": -143.39063739119945,
+        "backUpperArm": 135.94281700497356,
+        "backForearm": -134.68886993658464,
+        "frontThigh": -32.552888128230784,
+        "frontShin": 62.31250905740041,
+        "backThigh": 102.53777230645048,
+        "backShin": 43.533606646613066,
+        "frontHand": -8.022853331433403,
+        "backHand": 5.0,
+        "frontFoot": -51.126432964788954,
+        "backFoot": -146.07137895306354,
+        "lumbar": -98.6133949906995,
+        "thoracic": 14.256130003228932,
+        "head": 100.03917861505266,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-d12ec371-d3c9-467d-bf1a-5cc1fd53f8c4": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 17.286357945866058,
+        "y": -89.41569407780966
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.3485688865184784,
+      "shoulderTurn": 0.9771466851234449,
+      "angles": {
+        "spine": -1.0930024180536755,
+        "neck": 7.220395627294039,
+        "frontUpperArm": 160.898722624514,
+        "frontForearm": -135.2698043245506,
+        "backUpperArm": 143.0222617039193,
+        "backForearm": -122.9568271435903,
+        "frontThigh": -11.829885657378927,
+        "frontShin": 74.27276677581541,
+        "backThigh": 99.50805813766492,
+        "backShin": 46.99867206700905,
+        "frontHand": -8.267139998575052,
+        "backHand": 5.0,
+        "frontFoot": -48.60175999707175,
+        "backFoot": -146.50673020467397,
+        "lumbar": -100.52169474772344,
+        "thoracic": 10.6920975024217,
+        "head": 80.09178929276467,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-4def129b-1ce0-46ef-b616-ad7ff700da2c": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 14.82759926826866,
+        "y": -89.78730354044174
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.4028548126419387,
+      "shoulderTurn": 0.8957177946964914,
+      "angles": {
+        "spine": -1.0019188832158692,
+        "neck": 7.441440232759599,
+        "frontUpperArm": 155.69577847562724,
+        "frontForearm": -121.17275159174648,
+        "backUpperArm": 142.95134333855665,
+        "backForearm": -122.99272938754352,
+        "frontThigh": 19.446980732336755,
+        "frontShin": 52.985451309192904,
+        "backThigh": 96.83727340886709,
+        "backShin": 49.641924450779975,
+        "frontHand": -8.328211665360465,
+        "backHand": 5.0,
+        "frontFoot": -54.38914290466859,
+        "backFoot": -146.47919785964706,
+        "lumbar": -99.97578613873951,
+        "thoracic": 9.801089377219892,
+        "head": 80.42562856395391,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "pose-c3c45eba-441f-468e-87de-f6b29a643af6": {
+      "name": "Поза #15 — копия",
+      "root": {
+        "x": 12.36884059067126,
+        "y": -90.1589130030738
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -2.457140738765399,
+      "shoulderTurn": 0.8142889042695377,
+      "angles": {
+        "spine": -0.9108353483780629,
+        "neck": 7.66248483822516,
+        "frontUpperArm": 154.81996477551243,
+        "frontForearm": -121.53567180212345,
+        "backUpperArm": 142.880424973194,
+        "backForearm": -123.02863163149674,
+        "frontThigh": 30.514116539889674,
+        "frontShin": 66.07132126860178,
+        "backThigh": 94.26881345705738,
+        "backShin": 52.01919184782467,
+        "frontHand": -8.389283332145878,
+        "backHand": 5.0,
+        "frontFoot": -98.8263545537098,
+        "backFoot": -146.28800530488206,
+        "lumbar": -99.42987752975557,
+        "thoracic": 8.910081252018083,
+        "head": 80.75946783514314,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-17": {
+      "name": "Возврат · 17",
+      "root": {
+        "x": 19.363980258970212,
+        "y": -89.35277450270952
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.262089857375,
+      "shoulderTurn": 2.6041552888500012,
+      "angles": {
+        "spine": 10.111188544171203,
+        "neck": 12.294248343500165,
+        "frontUpperArm": 142.65366485491367,
+        "frontForearm": -143.16088905472006,
+        "backUpperArm": 137.0415546751514,
+        "backForearm": -132.99296367084094,
+        "frontThigh": -35.80265199693756,
+        "frontShin": 55.85354769116844,
+        "backThigh": 102.07543123947069,
+        "backShin": 43.91553334521479,
+        "frontHand": -7.041463636856251,
+        "backHand": 4.996988928,
+        "frontFoot": -38.93155493370057,
+        "backFoot": -145.99096458468549,
+        "lumbar": -110.50825165890433,
+        "thoracic": -0.9127971248722856,
+        "head": 98.21400331540416,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-18": {
+      "name": "Возврат · 18",
+      "root": {
+        "x": 19.792916701761662,
+        "y": -89.61500073307091
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.2571356368005777,
+      "shoulderTurn": 2.5939329107557465,
+      "angles": {
+        "spine": 10.071497980124056,
+        "neck": 12.247807009068428,
+        "frontUpperArm": 142.6684525754861,
+        "frontForearm": -143.01552953269893,
+        "backUpperArm": 137.0227688503672,
+        "backForearm": -133.03036877293573,
+        "frontThigh": -36.13144530530891,
+        "frontShin": 67.36846447754066,
+        "backThigh": 102.8678995728353,
+        "backShin": 42.551201792708284,
+        "frontHand": -7.013823002697035,
+        "backHand": 4.977373696,
+        "frontFoot": -49.85590269564146,
+        "backFoot": -145.41910136554358,
+        "lumbar": -110.39765300310161,
+        "thoracic": -0.9092140216012385,
+        "head": 98.14984599403317,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-19": {
+      "name": "Возврат · 19",
+      "root": {
+        "x": 19.481696895030503,
+        "y": -90.11504542227422
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.2447677369817707,
+      "shoulderTurn": 2.5684133872947927,
+      "angles": {
+        "spine": 9.972412985317526,
+        "neck": 12.131869140926494,
+        "frontUpperArm": 142.70536918907666,
+        "frontForearm": -142.6526486356818,
+        "backUpperArm": 136.97587122127413,
+        "backForearm": -133.12374825583748,
+        "frontThigh": -36.80712016455233,
+        "frontShin": 79.76241580999681,
+        "backThigh": 102.91807947302111,
+        "backShin": 41.80160517374825,
+        "frontHand": -6.944819899368447,
+        "backHand": 4.928405504,
+        "frontFoot": -60.955092052133296,
+        "backFoot": -144.71968464676937,
+        "lumbar": -110.12155042056324,
+        "thoracic": -0.9002690298248242,
+        "head": 97.98968127963674,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-20": {
+      "name": "Возврат · 20",
+      "root": {
+        "x": 18.535635958115265,
+        "y": -90.81498086452486
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.2227438206065673,
+      "shoulderTurn": 2.5229699523646008,
+      "angles": {
+        "spine": 9.795969153169228,
+        "neck": 11.925414856036948,
+        "frontUpperArm": 142.77110778839307,
+        "frontForearm": -142.00645496924287,
+        "backUpperArm": 136.89235910713404,
+        "backForearm": -133.29003209971697,
+        "frontThigh": -36.579927932471044,
+        "frontShin": 91.46450991438752,
+        "backThigh": 102.33266449551412,
+        "backShin": 41.58263479141097,
+        "frontHand": -6.821943857388593,
+        "backHand": 4.841206272,
+        "frontFoot": -71.8484279711133,
+        "backFoot": -143.9152992869251,
+        "lumbar": -109.62988568541101,
+        "thoracic": -0.8843403957198595,
+        "head": 97.70447082937406,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-21": {
+      "name": "Возврат · 21",
+      "root": {
+        "x": 17.06004901035448,
+        "y": -91.67687935402826
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.1897060709635416,
+      "shoulderTurn": 2.4548009309895846,
+      "angles": {
+        "spine": 9.531288382807485,
+        "neck": 11.615715851522467,
+        "frontUpperArm": 142.8697212842445,
+        "frontForearm": -141.03710945371256,
+        "backUpperArm": 136.7670838258391,
+        "backForearm": -133.53947202267074,
+        "frontThigh": -34.5114406370706,
+        "frontShin": 101.29255828516501,
+        "backThigh": 101.23947456816934,
+        "backShin": 41.7594060498085,
+        "frontHand": -6.63761933295356,
+        "backHand": 4.7104,
+        "frontFoot": -82.29756372812908,
+        "backFoot": -142.99888061797785,
+        "lumbar": -108.89234672315123,
+        "thoracic": -0.8604460884245557,
+        "head": 97.27663087162877,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-22": {
+      "name": "Возврат · 22",
+      "root": {
+        "x": 15.160251171086678,
+        "y": -92.66281318498983
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.1450880845102132,
+      "shoulderTurn": 2.3627376244656424,
+      "angles": {
+        "spine": 9.173832952154394,
+        "neck": 11.19746260675422,
+        "frontUpperArm": 143.00290031942563,
+        "frontForearm": -139.72799350157155,
+        "backUpperArm": 136.5978976414243,
+        "backForearm": -133.87634445567613,
+        "frontThigh": -30.051383838557832,
+        "frontShin": 108.18064858783724,
+        "backThigh": 99.774499403468,
+        "backShin": 42.17779905148788,
+        "frontHand": -6.38868624207657,
+        "backHand": 4.533744128,
+        "frontFoot": -91.84424780495154,
+        "backFoot": -141.9522984549559,
+        "lumbar": -107.89628906842367,
+        "thoracic": -0.828176460779424,
+        "head": 96.69882646166944,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-23": {
+      "name": "Возврат · 23",
+      "root": {
+        "x": 12.941557559650395,
+        "y": -93.73485465161502
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.089021763441406,
+      "shoulderTurn": 2.2470521955046885,
+      "angles": {
+        "spine": 8.724659591008916,
+        "neck": 10.671891585440292,
+        "frontUpperArm": 143.17025118260074,
+        "frontForearm": -138.08297719484486,
+        "backUpperArm": 136.38530071158016,
+        "backForearm": -134.29965351754672,
+        "frontThigh": -23.347483791906917,
+        "frontShin": 111.14815159309684,
+        "backThigh": 98.07059922265687,
+        "backShin": 42.69128803527366,
+        "frontHand": -6.075880494727149,
+        "backHand": 4.311760896,
+        "frontFoot": -99.45649051929557,
+        "backFoot": -140.76188725793054,
+        "lumbar": -106.64465732275056,
+        "thoracic": -0.7876269100681805,
+        "head": 95.97276573731027,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-24": {
+      "name": "Возврат · 24",
+      "root": {
+        "x": 10.509283295384163,
+        "y": -94.85507604810928
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -1.022244208257609,
+      "shoulderTurn": 2.109265553379184,
+      "angles": {
+        "spine": 8.189673554129964,
+        "neck": 10.04591243771409,
+        "frontUpperArm": 143.3695737221877,
+        "frontForearm": -136.12368746249604,
+        "backUpperArm": 136.13208803516517,
+        "backForearm": -134.80383398988715,
+        "frontThigh": -15.334570535823802,
+        "frontShin": 109.40754921617282,
+        "backThigh": 96.24986853445708,
+        "backShin": 43.17883637303063,
+        "frontHand": -5.703314528970277,
+        "backHand": 4.047368704,
+        "frontFoot": -103.53429583336512,
+        "backFoot": -139.4287049074877,
+        "lumbar": -105.15390661228565,
+        "thoracic": -0.739330538758654,
+        "head": 95.10799417457154,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-25": {
+      "name": "Возврат · 25",
+      "root": {
+        "x": 7.968743497626514,
+        "y": -95.98554966867798
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.9460046103333333,
+      "shoulderTurn": 1.9519552390666677,
+      "angles": {
+        "spine": 7.578882694319491,
+        "neck": 9.331235202222752,
+        "frontUpperArm": 143.59713926024207,
+        "frontForearm": -133.88677625782105,
+        "backUpperArm": 135.8429963997186,
+        "backForearm": -135.3794542920487,
+        "frontThigh": -6.594363829989958,
+        "frontShin": 104.15670587362138,
+        "backThigh": 94.41951281423789,
+        "backShin": 43.554054185530916,
+        "frontHand": -5.277957845105556,
+        "backHand": 3.745513472,
+        "frontFoot": -104.82915363155794,
+        "backFoot": -137.97356699976882,
+        "lumbar": -103.45192404556312,
+        "thoracic": -0.68419081524369,
+        "head": 94.12068884334036,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-26": {
+      "name": "Возврат · 26",
+      "root": {
+        "x": 5.42525328571598,
+        "y": -97.08834780752659
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.8619711444854735,
+      "shoulderTurn": 1.7785633103942877,
+      "angles": {
+        "spine": 6.905651535505559,
+        "neck": 8.543497508215564,
+        "frontUpperArm": 143.84796850634112,
+        "frontForearm": -131.4211887358426,
+        "backUpperArm": 135.52435132897293,
+        "backForearm": -136.01391945608424,
+        "frontThigh": 2.6461519471049915,
+        "frontShin": 97.08323349944583,
+        "backThigh": 92.67005709500587,
+        "backShin": 43.76826272865172,
+        "frontHand": -4.8091175398063655,
+        "backHand": 3.4128,
+        "frontFoot": -104.93703669691088,
+        "backFoot": -136.4383198236576,
+        "lumbar": -101.5759501712467,
+        "thoracic": -0.6234142345820575,
+        "head": 93.03245266303114,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-27": {
+      "name": "Возврат · 27",
+      "root": {
+        "x": 2.984127778991093,
+        "y": -98.12554275886052
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.7721378615416665,
+      "shoulderTurn": 1.593204227183334,
+      "angles": {
+        "spine": 6.185955345825441,
+        "neck": 7.70139177763237,
+        "frontUpperArm": 144.11610947146795,
+        "frontForearm": -128.785431430704,
+        "backUpperArm": 135.1837140303666,
+        "backForearm": -136.69217410170344,
+        "frontThigh": 11.871337136310215,
+        "frontShin": 88.4433950695316,
+        "backThigh": 91.07490008811297,
+        "backShin": 43.80991896673422,
+        "frontHand": -4.307918840259028,
+        "backHand": 3.057123328,
+        "frontFoot": -103.72092043183935,
+        "backFoot": -134.88481905484718,
+        "lumbar": -99.57050043587859,
+        "thoracic": -0.5584429792393555,
+        "head": 91.8691086582462,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-28": {
+      "name": "Возврат · 28",
+      "root": {
+        "x": 0.7506820967903858,
+        "y": -99.05920681688521
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.6787315809086508,
+      "shoulderTurn": 1.4004727363937672,
+      "angles": {
+        "spine": 5.437634210708697,
+        "neck": 6.8257924271919865,
+        "frontUpperArm": 144.3949153818955,
+        "frontForearm": -126.04484043306341,
+        "backUpperArm": 134.82952834255642,
+        "backForearm": -137.39740541122802,
+        "frontThigh": 20.710648187014602,
+        "frontShin": 78.68492118539453,
+        "backThigh": 89.69098521302716,
+        "backShin": 43.701382999282366,
+        "frontHand": -3.7867856383019616,
+        "backHand": 2.6873000960000004,
+        "frontFoot": -101.3543576892445,
+        "backFoot": -133.39236821230952,
+        "lumbar": -97.48528664162843,
+        "thoracic": -0.4908875798289176,
+        "head": 90.65949421443645,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-29": {
+      "name": "Возврат · 29",
+      "root": {
+        "x": -1.1697686415476096,
+        "y": -99.85141227580607
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.5841187831406248,
+      "shoulderTurn": 1.2052517572687502,
+      "angles": {
+        "spine": 4.679647105960254,
+        "neck": 5.938883070480603,
+        "frontUpperArm": 144.67732259307064,
+        "frontForearm": -123.26884956748783,
+        "backUpperArm": 134.47076768293041,
+        "backForearm": -138.1117461045469,
+        "frontThigh": 28.835018972294634,
+        "frontShin": 68.46195238778117,
+        "backThigh": 88.5607320155132,
+        "backShin": 43.49339419231687,
+        "frontHand": -3.2589210245648434,
+        "backHand": 2.3126999039999996,
+        "frontFoot": -98.21980925941918,
+        "backFoot": -132.05412620783005,
+        "lumbar": -95.37313840404245,
+        "thoracic": -0.42245957585271854,
+        "head": 89.43425533356184,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-30": {
+      "name": "Возврат · 30",
+      "root": {
+        "x": -2.6719093166843604,
+        "y": -100.46423142982854
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.4907125025076089,
+      "shoulderTurn": 1.0125202664791833,
+      "angles": {
+        "spine": 3.931325970843509,
+        "neck": 5.063283720040219,
+        "frontUpperArm": 144.95612850349818,
+        "frontForearm": -120.52825856984724,
+        "backUpperArm": 134.11658199512024,
+        "backForearm": -138.8169774140715,
+        "frontThigh": 35.798356231194326,
+        "frontShin": 58.77371236842711,
+        "backThigh": 87.7158600044138,
+        "backShin": 43.25646717794719,
+        "frontHand": -2.7377878226077765,
+        "backHand": 1.9428766719999997,
+        "frontFoot": -94.87581938224392,
+        "backFoot": -130.97232718236097,
+        "lumbar": -93.2879246097923,
+        "thoracic": -0.35490417644228056,
+        "head": 88.22464088975208,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-31": {
+      "name": "Возврат · 31",
+      "root": {
+        "x": -3.6504248092813345,
+        "y": -100.85973657315805
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.400879219563802,
+      "shoulderTurn": 0.8271611832682293,
+      "angles": {
+        "spine": 3.211629781163391,
+        "neck": 4.221177989457026,
+        "frontUpperArm": 145.224269468625,
+        "frontForearm": -117.89250126470864,
+        "backUpperArm": 133.77594469651387,
+        "backForearm": -139.4952320596907,
+        "frontThigh": 40.83960881710603,
+        "frontShin": 51.24216094401586,
+        "backThigh": 87.18374149043251,
+        "backShin": 43.06818912675364,
+        "frontHand": -2.236589123060438,
+        "backHand": 1.5871999999999997,
+        "frontFoot": -92.12374482768438,
+        "backFoot": -130.25193061718613,
+        "lumbar": -91.28247487442418,
+        "thoracic": -0.2899329210995786,
+        "head": 87.06129688496715,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-32": {
+      "name": "Возврат · 32",
+      "root": {
+        "x": -4.0,
+        "y": -101.0
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.31684575371594237,
+      "shoulderTurn": 0.65376925459585,
+      "angles": {
+        "spine": 2.53839862234946,
+        "neck": 3.433440295449838,
+        "frontUpperArm": 145.47509871472406,
+        "frontForearm": -115.42691374273019,
+        "backUpperArm": 133.45729962576823,
+        "backForearm": -140.12969722372623,
+        "frontThigh": 42.79613990870696,
+        "frontShin": 48.20390061896703,
+        "backThigh": 86.99678502440548,
+        "backShin": 42.99530694231982,
+        "frontHand": -1.767748817761249,
+        "backHand": 1.2544865280000002,
+        "frontFoot": -91.000040527674,
+        "backFoot": -129.9920919667253,
+        "lumbar": -89.40650100010777,
+        "thoracic": -0.2291563404379463,
+        "head": 85.97306070465793,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-33": {
+      "name": "Возврат · 33",
+      "root": {
+        "x": -3.4753086419753085,
+        "y": -100.53827160493827
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.24060615579166633,
+      "shoulderTurn": 0.49645894028333304,
+      "angles": {
+        "spine": 1.9276077625389831,
+        "neck": 2.718763059958496,
+        "frontUpperArm": 145.70266425277842,
+        "frontForearm": -113.19000253805521,
+        "backUpperArm": 133.16820799032166,
+        "backForearm": -140.70531752588778,
+        "frontThigh": 42.15534359428296,
+        "frontShin": 49.884222155445926,
+        "backThigh": 86.9784317272416,
+        "backShin": 43.81261962555554,
+        "frontHand": -1.3423921338965261,
+        "backHand": 0.952631295999999,
+        "frontFoot": -92.0395657497289,
+        "backFoot": -130.79105135279713,
+        "lumbar": -87.70451843338523,
+        "thoracic": -0.17401661692298198,
+        "head": 84.98575537342674,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-34": {
+      "name": "Возврат · 34",
+      "root": {
+        "x": -2.0246913580246915,
+        "y": -99.26172839506172
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.1738286006078693,
+      "shoulderTurn": 0.358672298157829,
+      "angles": {
+        "spine": 1.3926217256600353,
+        "neck": 2.0927839122322958,
+        "frontUpperArm": 145.9019867923654,
+        "frontForearm": -111.23071280570637,
+        "backUpperArm": 132.91499531390667,
+        "backForearm": -141.20949799822822,
+        "frontThigh": 40.52736140773012,
+        "frontShin": 54.26453569251584,
+        "backThigh": 87.00524278866578,
+        "backShin": 45.93695701943955,
+        "frontHand": -0.9698261681396554,
+        "backHand": 0.688239104,
+        "frontFoot": -94.79189710024596,
+        "backFoot": -132.94219980810533,
+        "lumbar": -86.21376772292032,
+        "thoracic": -0.12572024561345552,
+        "head": 84.12098381068802,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-35": {
+      "name": "Возврат · 35",
+      "root": {
+        "x": -1.5,
+        "y": -98.8
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.11776227953906249,
+      "shoulderTurn": 0.24298686919687507,
+      "angles": {
+        "spine": 0.9434483645145573,
+        "neck": 1.5672128909183698,
+        "frontUpperArm": 146.0693376555405,
+        "frontForearm": -109.5856964989797,
+        "backUpperArm": 132.70239838406252,
+        "backForearm": -141.6328070600988,
+        "frontThigh": 39.98430335439291,
+        "frontShin": 55.76580499133431,
+        "backThigh": 87.04124632172025,
+        "backShin": 46.659842114672195,
+        "frontHand": -0.6570204207902339,
+        "backHand": 0.4662558719999996,
+        "frontFoot": -95.75010834572723,
+        "backFoot": -133.70108843639244,
+        "lumbar": -84.96213597724721,
+        "thoracic": -0.08517069490221219,
+        "head": 83.39492308632884,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-36": {
+      "name": "Возврат · 36",
+      "root": {
+        "x": -1.7307098765432098,
+        "y": -98.98456790123457
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.07314429308573378,
+      "shoulderTurn": 0.15092356267293283,
+      "angles": {
+        "spine": 0.5859929338614638,
+        "neck": 1.1489596461501215,
+        "frontUpperArm": 146.20251669072164,
+        "frontForearm": -108.27658054683869,
+        "backUpperArm": 132.53321219964772,
+        "backForearm": -141.9696794931042,
+        "frontThigh": 40.19611353271611,
+        "frontShin": 55.15116283773729,
+        "backThigh": 87.0037277173895,
+        "backShin": 46.39347246066227,
+        "frontHand": -0.40808732991324437,
+        "backHand": 0.2895999999999992,
+        "frontFoot": -95.3472763704534,
+        "backFoot": -133.39720017805178,
+        "lumbar": -83.96607832251965,
+        "thoracic": -0.052901067257080214,
+        "head": 82.81711867636952,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-37": {
+      "name": "Возврат · 37",
+      "root": {
+        "x": -2.8641975308641974,
+        "y": -99.89135802469136
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.04010654344270903,
+      "shoulderTurn": 0.08275454129791804,
+      "angles": {
+        "spine": 0.32131216349972647,
+        "neck": 0.8392606416356472,
+        "frontUpperArm": 146.30113018657306,
+        "frontForearm": -107.3072350313084,
+        "backUpperArm": 132.4079369183528,
+        "backForearm": -142.21911941605794,
+        "frontThigh": 41.29564952305551,
+        "frontShin": 52.026510534665626,
+        "backThigh": 86.8516069600622,
+        "backShin": 45.029102314527115,
+        "frontHand": -0.22376280547821548,
+        "backHand": 0.1587937280000027,
+        "frontFoot": -93.32216005772113,
+        "backFoot": -131.88070927458932,
+        "lumbar": -83.22853936025989,
+        "thoracic": -0.02900675996177715,
+        "head": 82.38927871862424,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-38": {
+      "name": "Возврат · 38",
+      "root": {
+        "x": -4.75,
+        "y": -101.4
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.018082627067504298,
+      "shoulderTurn": 0.037311106367723834,
+      "angles": {
+        "spine": 0.14486833135142163,
+        "neck": 0.6328063567460926,
+        "frontUpperArm": 146.36686878588947,
+        "frontForearm": -106.66104136486943,
+        "backUpperArm": 132.3244248042127,
+        "backForearm": -142.38540325993745,
+        "frontThigh": 43.377493622703405,
+        "frontShin": 46.367212425607185,
+        "backThigh": 86.72570759217518,
+        "backShin": 42.53761245259904,
+        "frontHand": -0.10088676349835524,
+        "backHand": 0.07159449599999768,
+        "frontFoot": -89.74470604831059,
+        "backFoot": -129.26332004477422,
+        "lumbar": -82.73687462510763,
+        "thoracic": -0.013078125856811673,
+        "head": 82.10406826836154,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-39": {
+      "name": "Возврат · 39",
+      "root": {
+        "x": -6.635802469135803,
+        "y": -102.90864197530864
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.005714727248698148,
+      "shoulderTurn": 0.011791582906771403,
+      "angles": {
+        "spine": 0.04578333654489697,
+        "neck": 0.5168684886041657,
+        "frontUpperArm": 146.40378539948003,
+        "frontForearm": -106.29816046785231,
+        "backUpperArm": 132.27752717511962,
+        "backForearm": -142.4787827428392,
+        "frontThigh": 45.87678227821642,
+        "frontShin": 39.921127151884335,
+        "backThigh": 86.77932654681277,
+        "backShin": 39.72887596515543,
+        "frontHand": -0.031883660169771844,
+        "backHand": 0.022626304000000985,
+        "frontFoot": -85.79790943010076,
+        "backFoot": -126.5082025119682,
+        "lumbar": -82.46077204256927,
+        "thoracic": -0.004133134080397838,
+        "head": 81.94390355396511,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-40": {
+      "name": "Возврат · 40",
+      "root": {
+        "x": -7.7692901234567895,
+        "y": -103.81543209876543
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -7.605066742757405E-4,
+      "shoulderTurn": 0.0015692048125166558,
+      "angles": {
+        "spine": 0.006092772497749976,
+        "neck": 0.47042715417242675,
+        "frontUpperArm": 146.41857312005246,
+        "frontForearm": -106.15280094583119,
+        "backUpperArm": 132.25874135033544,
+        "backForearm": -142.516187844934,
+        "frontThigh": 47.66495237013341,
+        "frontShin": 35.49312465753162,
+        "backThigh": 86.91124134183916,
+        "backShin": 37.861553328922135,
+        "frontHand": -0.004243026010555262,
+        "backHand": 0.003011072000000503,
+        "frontFoot": -83.15807702766503,
+        "backFoot": -124.7727946707613,
+        "lumbar": -82.35017338676656,
+        "thoracic": -5.500308093505657E-4,
+        "head": 81.87974623259413,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    },
+    "recovery-028-41": {
+      "name": "Удар ногой · 41",
+      "root": {
+        "x": -8.0,
+        "y": -104.0
+      },
+      "facing": 1,
+      "socketWeight": 0.0,
+      "extended": true,
+      "segmented": true,
+      "spineBend": -0.0,
+      "shoulderTurn": 0.0,
+      "angles": {
+        "spine": 0.0,
+        "neck": 0.46329809234180175,
+        "frontUpperArm": 146.4208431360971,
+        "frontForearm": -106.13048726701814,
+        "backUpperArm": 132.25585759800435,
+        "backForearm": -142.52192978342214,
+        "frontThigh": 48.06400657064877,
+        "frontShin": 34.522937432843904,
+        "backThigh": 86.94832604074192,
+        "backShin": 37.46286888243334,
+        "frontHand": -0.0,
+        "backHand": 0.0,
+        "frontFoot": -82.58694400349268,
+        "backFoot": -124.41119492317526,
+        "lumbar": -82.33319573818584,
+        "thoracic": 0.0,
+        "head": 81.86989764584403,
+        "frontPatella": 0.0,
+        "backPatella": 0.0
+      }
+    }
+  },
+  "keys": [
+    {
+      "frame": 1,
+      "pose": "frame-0",
+      "easing": "linear"
+    },
+    {
+      "frame": 3,
+      "pose": "frame-3",
+      "easing": "linear"
+    },
+    {
+      "frame": 6,
+      "pose": "frame-6",
+      "easing": "linear"
+    },
+    {
+      "frame": 7,
+      "pose": "pose-2e704ef1-bd25-49a3-99db-e54ec0925b9f",
+      "easing": "linear"
+    },
+    {
+      "frame": 8,
+      "pose": "pose-6368ffd5-0734-403d-870d-be743ed2bbfb",
+      "easing": "linear"
+    },
+    {
+      "frame": 9,
+      "pose": "pose-35837d8d-9d84-4904-97f7-4356e73ba55e",
+      "easing": "linear"
+    },
+    {
+      "frame": 10,
+      "pose": "pose-d15c4a0c-8c86-41f5-8890-db368baf8b7b",
+      "easing": "linear"
+    },
+    {
+      "frame": 11,
+      "pose": "pose-38edc0b2-a448-47f6-a6d2-5841f211f6d9",
+      "easing": "linear"
+    },
+    {
+      "frame": 12,
+      "pose": "pose-0f608127-1d94-43f1-9381-93d352745c17",
+      "easing": "linear"
+    },
+    {
+      "frame": 13,
+      "pose": "pose-e8f0ab2a-7933-4288-a5c4-1931a8eeef93",
+      "easing": "linear"
+    },
+    {
+      "frame": 14,
+      "pose": "pose-ccc414f6-a21d-4a27-b9e3-ebd58e16ba2a",
+      "easing": "linear"
+    },
+    {
+      "frame": 15,
+      "pose": "pose-2ea18929-c085-4fef-9791-ae122337f245",
+      "easing": "linear"
+    },
+    {
+      "frame": 16,
+      "pose": "pose-e25c7695-51c4-4bc0-a105-c731f723b73f",
+      "easing": "linear"
+    },
+    {
+      "frame": 17,
+      "pose": "recovery-028-17",
+      "easing": "linear"
+    },
+    {
+      "frame": 18,
+      "pose": "recovery-028-18",
+      "easing": "linear"
+    },
+    {
+      "frame": 19,
+      "pose": "recovery-028-19",
+      "easing": "linear"
+    },
+    {
+      "frame": 20,
+      "pose": "recovery-028-20",
+      "easing": "linear"
+    },
+    {
+      "frame": 21,
+      "pose": "recovery-028-21",
+      "easing": "linear"
+    },
+    {
+      "frame": 22,
+      "pose": "recovery-028-22",
+      "easing": "linear"
+    },
+    {
+      "frame": 23,
+      "pose": "recovery-028-23",
+      "easing": "linear"
+    },
+    {
+      "frame": 24,
+      "pose": "recovery-028-24",
+      "easing": "linear"
+    },
+    {
+      "frame": 25,
+      "pose": "recovery-028-25",
+      "easing": "linear"
+    },
+    {
+      "frame": 26,
+      "pose": "recovery-028-26",
+      "easing": "linear"
+    },
+    {
+      "frame": 27,
+      "pose": "recovery-028-27",
+      "easing": "linear"
+    },
+    {
+      "frame": 28,
+      "pose": "recovery-028-28",
+      "easing": "linear"
+    },
+    {
+      "frame": 29,
+      "pose": "recovery-028-29",
+      "easing": "linear"
+    },
+    {
+      "frame": 30,
+      "pose": "recovery-028-30",
+      "easing": "linear"
+    },
+    {
+      "frame": 31,
+      "pose": "recovery-028-31",
+      "easing": "linear"
+    },
+    {
+      "frame": 32,
+      "pose": "recovery-028-32",
+      "easing": "linear"
+    },
+    {
+      "frame": 33,
+      "pose": "recovery-028-33",
+      "easing": "linear"
+    },
+    {
+      "frame": 34,
+      "pose": "recovery-028-34",
+      "easing": "linear"
+    },
+    {
+      "frame": 35,
+      "pose": "recovery-028-35",
+      "easing": "linear"
+    },
+    {
+      "frame": 36,
+      "pose": "recovery-028-36",
+      "easing": "linear"
+    },
+    {
+      "frame": 37,
+      "pose": "recovery-028-37",
+      "easing": "linear"
+    },
+    {
+      "frame": 38,
+      "pose": "recovery-028-38",
+      "easing": "linear"
+    },
+    {
+      "frame": 39,
+      "pose": "recovery-028-39",
+      "easing": "linear"
+    },
+    {
+      "frame": 40,
+      "pose": "recovery-028-40",
+      "easing": "linear"
+    },
+    {
+      "frame": 41,
+      "pose": "recovery-028-41",
+      "easing": "linear"
+    }
+  ],
+  "phases": {
+    "startupEnd": 14,
+    "activeEnd": 19
+  },
+  "hitboxes": []
+}
